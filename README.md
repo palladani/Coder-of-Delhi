@@ -2,11 +2,11 @@
 Using pure Python, this project builds a recommendation system that suggests friends and pages based on mutual connections and shared interests from JSON data, without using any external libraries.
 
 ## Step - 1
-Load the json file codebook_data.json
+#Load the json file codebook_data.json
 
 ## Step - 2
-Read and Display the Data using read_and_display_data.py file
-Steps:
+#Read and Display the Data using read_and_display_data.py file
+#Steps:
       1. Save the JSON data in a file (codebook_data.json ).
       2. Read the JSON file using Python.
       3. Print user details and their connections.
